@@ -1,5 +1,5 @@
 
-* link:/anypoint-studio/v/7.2/index[About Anypoint Studio]
+* link:/anypoint-studio/v/7.2/index[Anypoint Studio]
 
 ** link:/anypoint-studio/v/7.2/to-download-and-install-studio[Download and Install Anypoint Studio 7.2]
 *** link:/anypoint-studio/v/7.2/to-download-and-install-studio-wx[Download and Install Anypoint Studio 7.2 (Windows)]
