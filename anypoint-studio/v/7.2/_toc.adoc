@@ -1,10 +1,10 @@
 
 * link:/anypoint-studio/v/7.2/index[About Anypoint Studio]
 
-** link:/anypoint-studio/v/7.2/to-download-and-install-studio[To Download and Install Anypoint Studio 7.2]
-*** link:/anypoint-studio/v/7.2/to-download-and-install-studio-wx[To Download and Install Anypoint Studio 7.2 (Windows)]
-*** link:/anypoint-studio/v/7.2/to-download-and-install-studio-ox[To Download and Install Anypoint Studio 7.2 (OSx)]
-*** link:/anypoint-studio/v/7.2/to-download-and-install-studio-lx[To Download and Install Anypoint Studio 7.2 (Linux)]
+** link:/anypoint-studio/v/7.2/to-download-and-install-studio[Download and Install Anypoint Studio 7.2]
+*** link:/anypoint-studio/v/7.2/to-download-and-install-studio-wx[Download and Install Anypoint Studio 7.2 (Windows)]
+*** link:/anypoint-studio/v/7.2/to-download-and-install-studio-ox[Download and Install Anypoint Studio 7.2 (OSx)]
+*** link:/anypoint-studio/v/7.2/to-download-and-install-studio-lx[Download and Install Anypoint Studio 7.2 (Linux)]
 ** link:/anypoint-studio/v/7.2/faq-default-browser-config[FAQ: Troubleshooting Issues with Your Default OS Browser]
 *** link:/anypoint-studio/v/7.2/studio-xulrunner-wx-task[To Configure XULRunner as Studio's Default Layout Engine (Windows)]
 *** link:/anypoint-studio/v/7.2/studio-xulrunner-lnx-task[To Configure XULRunner as Studio's Default Layout Engine (Linux)]

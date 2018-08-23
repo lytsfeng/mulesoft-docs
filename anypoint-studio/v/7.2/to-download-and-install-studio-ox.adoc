@@ -1,4 +1,4 @@
-= To Download and Install Anypoint Studio 7.2 (OSx)
+= Download and Install Anypoint Studio 7.2 (OSx)
 
 * Before downloading and launching Anypoint Studio, make sure you have the Java SE JDK 8 installed.
 

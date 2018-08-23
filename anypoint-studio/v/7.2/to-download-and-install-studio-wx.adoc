@@ -1,22 +1,29 @@
-= To Download and Install Anypoint Studio 7.2 (Windows)
-
-* Before downloading and launching Anypoint Studio, make sure you have the Java SE JDK 8 installed.
+= Download and Install Anypoint Studio 7.2 (Windows)
 
 To install Anypoint Studio 7.2:
 
-. Download Anypoint Studio from the link:https://www.mulesoft.com/lp/dl/studio[Anypoint Studio Download Site] and extract it into the 'C:\' root folder. +
-If you are using a Windows Anti-Virus application, ensure that the `plugin/` and `features/` directories are under the “trusted” category.
-. Open the extracted Anypoint Studio.
+. Download Anypoint Studio from the link:https://www.mulesoft.com/lp/dl/studio[Anypoint Studio Download Site].
+. If prompted, follow the prompts to install the JDK 8 for your operating system.
++
+[NOTE]
+--
+You may get a Windows firewall warning if this is the first time JDK has been installed to your computer. We recommend that you allow access to enable all functions of Anypoint Studio. If you do not allow access, some features of Anypoint Studio may not work properly.
+
+If you get a Windows warning about running executable files (EXE) downloaded from the internet, verify that the publisher is MuleSoft. Click Yes to proceed.
+--
+
+. Accept the license agreement.
+. Select the installation location. 
+. Open the installed Anypoint Studio.
 . Click OK to accept the default workspace. +
 +
 [NOTE]
 --
-You cannot reuse a workspace used by Anypoint Studio 6.x or below. +
+Do not reuse a workspace used by Anypoint Studio 6.x or below. +
 If you choose to use an existing workspace, this must have been created using Anypoint Studio 7.0 or above.
 --
 
-Anypoint Studio displays a welcome message when it loads for the first time. +
-Click Get Started to start using Anypoint Studio.
+
 
 == See Also
 

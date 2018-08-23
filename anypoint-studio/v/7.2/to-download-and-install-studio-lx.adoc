@@ -1,4 +1,4 @@
-= To Download and Install Anypoint Studio 7.2 (Linux)
+= Download and Install Anypoint Studio 7.2 (Linux)
 
 To support some of Studio Themes in Linux, it is recommended to have GTK version 2 installed.
 
